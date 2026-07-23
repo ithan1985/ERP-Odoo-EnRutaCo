@@ -1,0 +1,21 @@
+Ahora construye el entorno Docker.
+
+Debe incluir
+
+- Odoo
+
+- PostgreSQL
+
+- pgAdmin
+
+- Healthcheck
+
+- Variables de entorno
+
+- Persistencia
+
+- Scripts de inicio
+
+No desarrolles módulos de Odoo.
+
+No agregues datos de ejemplo todavía.

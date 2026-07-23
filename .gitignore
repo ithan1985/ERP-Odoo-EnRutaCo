@@ -1,0 +1,26 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.pyc
+
+# Odoo
+*.log
+
+# Docker
+.env
+
+# VSCode
+.vscode/settings.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PostgreSQL
+erp/data/
+
+# Backups
+backups/
+EOF

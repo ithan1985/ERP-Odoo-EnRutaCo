@@ -1,0 +1,7 @@
+Implementa únicamente la estructura del repositorio.
+
+No desarrolles funcionalidades.
+
+Genera únicamente carpetas, README y archivos base.
+
+Todo debe quedar documentado.
