@@ -1,0 +1,24 @@
+Antes de realizar cualquier modificación:
+
+1. Lee completamente todo el repositorio.
+2. Analiza AGENTS.md.
+3. Analiza PROJECT.md.
+4. Analiza TASKS.md.
+5. Analiza DECISIONS.md.
+6. Analiza todos los documentos de la carpeta .ai.
+7. Lee completamente el caso de estudio ubicado en 01-Caso/Caso-EnRutaCo.pdf.
+
+Después de comprender el proyecto:
+
+- Resume el objetivo del laboratorio.
+- Identifica riesgos.
+- Propón mejoras.
+- Propón una arquitectura del repositorio.
+- Propón una estrategia de implementación por iteraciones.
+
+No escribas código.
+No modifiques archivos.
+No crees carpetas.
+No implementes funcionalidades.
+
+Entrega únicamente un documento de análisis con recomendaciones.

@@ -1,0 +1,27 @@
+Quiero realizar una revisión arquitectónica del Plan Maestro.
+
+Analiza el documento actual como si fueras un Enterprise Architect y un Diseñador Instruccional con experiencia en programas de Maestría.
+
+No implementes cambios todavía.
+
+Evalúa el documento utilizando los siguientes criterios:
+
+1. Coherencia del modelo pedagógico.
+2. Cobertura de Arquitectura Empresarial.
+3. Cobertura de Sistemas de Información.
+4. Cobertura de Transformación Digital.
+5. Cobertura de Gobierno de Datos.
+6. Cobertura de Procesos.
+7. Claridad de la arquitectura por capas.
+8. Riesgo de convertir el laboratorio en un curso de Odoo.
+9. Riesgo de complejidad innecesaria.
+10. Alineación con los objetivos de aprendizaje.
+
+Identifica fortalezas, vacíos y oportunidades de mejora.
+
+Después propone una nueva versión del Plan Maestro incorporando únicamente mejoras justificadas.
+
+No cambies el enfoque general del proyecto.
+Conserva la filosofía de "Odoo como medio y no como fin".
+
+Antes de proponer cualquier cambio, explica por qué agrega valor académico.

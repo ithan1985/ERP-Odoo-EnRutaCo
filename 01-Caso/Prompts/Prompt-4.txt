@@ -1,0 +1,25 @@
+Ahora modela EnRutaCo dentro del ERP.
+
+No programes.
+
+Configura únicamente:
+
+Empresa
+
+Sucursales
+
+Almacenes
+
+Usuarios
+
+Roles
+
+Moneda
+
+Impuestos
+
+Bodegas
+
+Datos maestros
+
+No crear pedidos todavía.
