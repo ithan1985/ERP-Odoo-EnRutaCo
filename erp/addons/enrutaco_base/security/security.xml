@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <record id="group_enrutaco_user" model="res.groups">
+        <field name="name">EnRutaCo User</field>
+    </record>
+
+    <record id="group_enrutaco_manager" model="res.groups">
+        <field name="name">EnRutaCo Manager</field>
+        <field name="implied_ids" eval="[(4, ref('group_enrutaco_user'))]"/>
+    </record>
+
+</odoo>

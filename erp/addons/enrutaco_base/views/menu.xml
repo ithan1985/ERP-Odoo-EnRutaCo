@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <menuitem
+        id="menu_enrutaco_root"
+        name="EnRutaCo"
+        sequence="10"/>
+
+    <menuitem
+        id="menu_enrutaco_configuration"
+        name="Configuración"
+        parent="menu_enrutaco_root"
+        sequence="10"/>
+
+</odoo>
