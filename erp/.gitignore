@@ -1,33 +1,37 @@
 # ===========================
-# Python
+# Local environment
 # ===========================
-__pycache__/
-*.py[cod]
+.env
 
 # ===========================
-# Logs
+# Odoo logs
 # ===========================
 *.log
 
 # ===========================
-# IDEs
+# PostgreSQL Data
 # ===========================
-.vscode/
-.idea/
+data/postgres/**
+!data/postgres/.gitkeep
 
 # ===========================
-# OS
+# Odoo Filestore
 # ===========================
-.DS_Store
-Thumbs.db
+data/filestore/**
+!data/filestore/.gitkeep
+
+# ===========================
+# Sessions
+# ===========================
+data/sessions/**
+!data/sessions/.gitkeep
 
 # ===========================
 # Backups
 # ===========================
 backups/
-tmp/
 
 # ===========================
-# Environment
+# Temporary files
 # ===========================
-.env
+tmp/
